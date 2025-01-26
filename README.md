@@ -1,21 +1,11 @@
 # JS8call-CODE
 
 
-Easy to use Python program with a GUI.
-
-Encrypt Text into a format suitable for JS8call (BASE32)
-
-Perfect for those emergencies on HF radios or just playing around.
+Easy to use Python program with a GUI. Encrypt Text into a format suitable for JS8call (BASE32). Perfect for those emergencies on HF radios or just playing around.
 
 
 
 .exe provided and the .py code for viewing.
-
-/
-
-/
-
-/
 
 /
 

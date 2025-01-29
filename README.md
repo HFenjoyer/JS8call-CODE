@@ -3,9 +3,15 @@
 
 Easy to use Python program with a GUI. Encrypt Text into a format suitable for JS8call (BASE32). Perfect for those emergencies on HF radios or just playing around.
 
+![image alt](https://github.com/HFenjoyer/JS8call-CODE/blob/main/example.jpg?raw=true)
+
+(WARNING) this program make for a very very long payload. check out my "JackRabbit" project for something more suitable for the airwaves.
+
+/
 
 
-.exe provided and the .py code for viewing.
+
+.exe provided for easy use and the .py code for more advanced users with trust issues.
 
 /
 
@@ -31,6 +37,9 @@ Key Features:
 
 /
 
+What you dont like executables(.exe) files? COMPILE IT YOURSELF
+
+/
 
 
 
